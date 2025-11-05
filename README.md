@@ -1,0 +1,2 @@
+# notion-legal
+Datenschutz, Nutzungsbedingungen
