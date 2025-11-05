@@ -1,2 +1,2 @@
 # notion-legal
-Datenschutz, Nutzungsbedingungen
+Datenschutz
